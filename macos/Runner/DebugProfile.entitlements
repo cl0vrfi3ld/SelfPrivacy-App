@@ -12,7 +12,8 @@
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)*</string>
+		<string>$(AppIdentifierPrefix)co.cl0vr.selfprivacy.key</string>
+		<string>$(AppIdentifierPrefix)org.selfprivacy.selfprivacy.key</string>
 	</array>
 </dict>
 </plist>
